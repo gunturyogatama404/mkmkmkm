@@ -1,4 +1,4 @@
 ﻿#!/bin/bash
 
-cd /q
-/q/qli-Client -service
+cd /mkmkmkm
+/mkmkmkm/qli-Client -service
